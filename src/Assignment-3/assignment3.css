@@ -5,3 +5,50 @@
 width: 100%;
 height: 100%;
 }
+
+.first-container{
+    background-color: #F2F2F2;
+    height:350px;
+    width:100%
+
+}
+.text1{
+    padding-top: 50px;
+    width:50%;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: rgb(189, 49, 49);
+
+}
+#render-wiki{
+    width: 50vw;
+    height: 35vh;
+   float: right;
+   margin-top: -10%;
+   margin-right: 2%;
+   overflow-x: hidden;
+overflow-y: scroll;
+
+}
+.second-container{
+    background-color: #F2F2F2;
+    height: 350px;
+    width:100%
+
+}
+#render-dictionary{
+    width:50vw;
+    height:30vh;
+    margin: auto;
+ 
+    display: block;
+ 
+ 
+    
+}
+.text2{
+    text-align: center;
+}
